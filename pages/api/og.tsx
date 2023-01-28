@@ -61,8 +61,8 @@ export default async function (req: NextRequest) {
       </div>
       ),
       {
-        width: 800,
-        height: 400,
+        width: 1200,
+        height: 600,
         fonts: [
           {
             name: 'Inter',
